@@ -16,10 +16,14 @@
 
 - - -
 
+<<<<<<< HEAD
 <h2 align='center'>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" />
 </h2>
+=======
+<h2 align='center'> Hey there </h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px" />
+>>>>>>> 071e84335b7173627d896a88ef54b5af2473994b
 
 - - -
 
