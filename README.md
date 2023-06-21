@@ -3,7 +3,7 @@
     <img src="avatars.svg" width="100" alt="Conding GIF">
     <h3> Lemarchand Alexandre</h3>
     <br>
-    <p align="left">🏡 Rennes </p>
+    <p align="left">🏡 Saint-Malo </p>
     <p align="left">📬 lemarchandalexandre4@gmail.com</p>
     <a href="https://www.linkedin.com/in/alexandre-lemarchand">
         <img height="18" align="left"
